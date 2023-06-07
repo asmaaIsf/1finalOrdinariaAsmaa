@@ -15,6 +15,14 @@ public class Empleado {
         this.salarioBase = salarioBase;
     }
 
+    public float getSalarioBase() {
+        return salarioBase;
+    }
+
+    public void setSalarioBase(float salarioBase) {
+        this.salarioBase = salarioBase;
+    }
+
    
 
     
